@@ -1,0 +1,16 @@
+site_name: Kurs Microsoft Teams dla pracowników firmy
+
+theme:
+    name: material
+
+nav:
+  - Strona główna: index.md
+  - Autorzy: autorzy.md
+  - Wprowadzenie: wprowadzenie.md
+  - Instalacja: instalacja.md
+  - Zespoły i kanały: zespoly.md
+  - Komunikacja: komunikacja.md
+  - Spotkania: spotkania.md
+  - Współpraca: wspolpraca.md
+  - Bezpieczeństwo: bezpieczenstwo.md
+  - Projekt przykładowy: przyklad.md
