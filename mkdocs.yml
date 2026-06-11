@@ -1,16 +1,22 @@
 site_name: Kurs Microsoft Teams dla pracowników firmy
+site_author: Cyprian Wlezień, Jakub Zabawa
 
 theme:
-    name: material
+    name: readthedocs
+    language: pl
+
+repo_url: https://github.com/Cyprian-Wlezien/MicrosoftTeams_Dokumentacja-dev
+
 
 nav:
   - Strona główna: index.md
-  - Autorzy: autorzy.md
-  - Wprowadzenie: wprowadzenie.md
-  - Instalacja: instalacja.md
-  - Zespoły i kanały: zespoly.md
-  - Komunikacja: komunikacja.md
-  - Spotkania: spotkania.md
-  - Współpraca: wspolpraca.md
-  - Bezpieczeństwo: bezpieczenstwo.md
-  - Projekt przykładowy: przyklad.md
+  - modul1.md
+  - modul2.md
+  - modul3.md
+  - modul4.md
+  - modul5.md
+  - modul6.md
+  - modul7.md
+  - modul8.md
+  - podsumowanie.md
+  - autorzy.md
